@@ -1,4 +1,4 @@
-#test change to verify webhooks
+#test change to verify webhooks. Settings url: https://blog.openshift.com/new-net-core-1-0-now-available-openshift-online-next-gen/
 # Welcome to ASP.NET Core
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
